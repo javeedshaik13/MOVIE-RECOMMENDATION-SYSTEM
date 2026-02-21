@@ -136,7 +136,7 @@ MOVIE-RECOMMENDATION-SYSTEM/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/MOVIE-RECOMMENDATION-SYSTEM.git
+https://github.com/javeedshaik13/MOVIE-RECOMMENDATION-SYSTEM.git
 cd MOVIE-RECOMMENDATION-SYSTEM
 ```
 
@@ -205,7 +205,7 @@ The application will open in your default browser at `http://localhost:8501`
 ### API Key Setup
 Replace the API key in `app.py`:
 ```python
-API_KEY = "df5d969bdb3fd702825dc3a59d32676e"  # Replace with your own
+API_KEY = "df5d969bdb3fd702825dc3a59d3***...."  # Replace with your own
 ```
 
 ## 📊 Dataset Information
@@ -288,25 +288,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-
 ## 🙏 Acknowledgments
 
 - TMDB for providing the movie database and API
 - Kaggle for the TMDB 5000 Movies dataset
 - Streamlit for the amazing web framework
 - Scikit-learn for machine learning tools
-
-## 📧 Contact
-
-For any queries or suggestions, please reach out:
-- Email: your.email@example.com
-- Project Link: [https://github.com/yourusername/MOVIE-RECOMMENDATION-SYSTEM](https://github.com/yourusername/MOVIE-RECOMMENDATION-SYSTEM)
-
----
 
 ⭐ If you found this project helpful, please give it a star!
